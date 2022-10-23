@@ -6,9 +6,9 @@
 # Patrick Ratcliff
 # GitHub Username: PatrickARatcliff
 # GitHub Repo URL: https://github.com/PatrickARatcliff/m17c-regex
-#
+# GitHubGist URL: https://gist.github.com/PatrickARatcliff/6d3c086286199e32c18a73eacb0dfa8e
 
-![snapshot-1]()
+![snapshot-1](./src/D5D4FA8A-4B81-4A4B-97EE-9224F3F4D715.jpeg)
 
 ## Table of Contents
 - [Project Description](#project-description)
